@@ -1,0 +1,44 @@
+[
+    {
+        "nom": "Sputnik",
+        "any": 1957,
+        "pais": "Russia",
+        "descripcio": "El primer satèl·lit artificial",
+        "img": "Sputnik.jpg"
+    },
+    {
+        "nom": "Soyuz",
+        "any": 1966,
+        "pais": "Russia",
+        "descripcio": "El primer coet espacial tripulat",
+        "img": "Soyuz.jpg"
+    },
+    {
+        "nom": "Meteosat",
+        "any": 1977,
+        "pais": "Europa",
+        "descripcio": "El primer satèl·lit meteorològic",
+        "img": "Meteosat.jpg"
+    },
+    {
+        "nom": "Ariane",
+        "any": 1980,
+        "pais": "Europa",
+        "descripcio": "El primer coet espacial comercial",
+        "img": "Ariane.jpg"
+    },
+    {
+        "nom": "Starlink",
+        "any": 2019,
+        "pais": "Estats Units",
+        "descripcio": "Starlink és una empresa que va néixer com a projecte de SpaceX per crear una constel·lació de satèl·lits d'internet amb l'objectiu de brindar un servei d' internet de banda ampla , baixa latència i cobertura mundial a baix cost. SpaceX va començar a llançar satèl·lits Starlink el 2019. ",
+        "img": "024f3fa0-48c0-4770-a0fd-c421540477cd.jpg"
+    },
+    {
+        "nom": "Mehdi",
+        "any": 1998,
+        "pais": "Marroc",
+        "descripcio": "Hola",
+        "img": "b9f6984e-9601-4de0-a807-9b22c925f95d.jpeg"
+    }
+]
