@@ -40,5 +40,12 @@
         "pais": "Marroc",
         "descripcio": "Hola",
         "img": "b9f6984e-9601-4de0-a807-9b22c925f95d.jpeg"
+    },
+    {
+        "nom": "Twitch",
+        "any": 2023,
+        "pais": "España",
+        "descripcio": "Twitch es una plataforma estadounidense perteneciente a la empresa Amazon, Inc., que permite realizar transmisiones en vivo. Esta plataforma tiene como función principal la retransmisión de videojuegos en directo, un campo en el que tiene como competidor a YouTube.",
+        "img": "dd19391f-a0fa-4664-b8ea-651685f820fb.jpg"
     }
 ]
